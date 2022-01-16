@@ -12,6 +12,7 @@ The main objectives are as follows:
 
 ## Results
 Currently there are a total of 240,124 active employees with Pewelett Hackard as show below.
+
 ![Fig1](https://github.com/eburneo/Pewlett-Hackard-Analysis/blob/main/Images/Fig1.png)
 
 The criteria used to identify employees nearing retirement age was employees born between 1952 and 1955. This list also included the employee number, first name, last name, title, 
